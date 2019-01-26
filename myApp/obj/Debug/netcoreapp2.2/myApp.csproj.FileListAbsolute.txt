@@ -1,0 +1,11 @@
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/davidmayou/programmingProjects/prime/tier3/vega-new-tech/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
